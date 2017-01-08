@@ -21,7 +21,7 @@ public class QuizActivity extends Activity {
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_quiz);
-
+		mTrueButton=(Button)findViewById(R.id.true_button);;
 		mTrueButton.setOnClickListener(new View.OnClickListener() {
 
 			@Override
@@ -31,7 +31,7 @@ public class QuizActivity extends Activity {
 
 			}
 		});
-
+		mFalseButton=(Button)findViewById(R.id.false_button);
 		mFalseButton.setOnClickListener(new View.OnClickListener() {
 
 			@Override

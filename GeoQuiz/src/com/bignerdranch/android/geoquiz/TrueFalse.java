@@ -10,19 +10,21 @@ public class TrueFalse {
 		mTrueQuestion = trueQuestion;
 	}
 
-	public int getmQuestion() {
+	public int getQuestion() {
 		return mQuestion;
 	}
 
-	public void setmQuestion(int mQuestion) {
-		this.mQuestion = mQuestion;
+	public void setQuestion(int question) {
+		mQuestion = question;
 	}
 
-	public boolean ismTrueQuestion() {
+	public boolean isTrueQuestion() {
 		return mTrueQuestion;
 	}
 
-	public void setmTrueQuestion(boolean mTrueQuestion) {
-		this.mTrueQuestion = mTrueQuestion;
+	public void setTrueQuestion(boolean trueQuestion) {
+		mTrueQuestion = trueQuestion;
 	}
+
+
 }

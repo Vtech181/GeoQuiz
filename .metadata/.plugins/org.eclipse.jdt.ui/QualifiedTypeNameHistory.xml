@@ -2,4 +2,7 @@
 <qualifiedTypeNameHistroy>
 <fullyQualifiedTypeName name="android.widget.Toast"/>
 <fullyQualifiedTypeName name="com.bignerdranch.android.geoquiz.R.string"/>
+<fullyQualifiedTypeName name="com.bignerdranch.android.geoquiz.R.layout"/>
+<fullyQualifiedTypeName name="com.bignerdranch.android.geoquiz.R.id"/>
+<fullyQualifiedTypeName name="android.view.View.OnClickListener"/>
 </qualifiedTypeNameHistroy>
